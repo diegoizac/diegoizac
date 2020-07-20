@@ -1,4 +1,4 @@
-### I'm [Diêgo Izac]() 👋
+### I'm Diêgo Izac 👋
 ---
 
 #### I'm a Full-Stack Developer based in Belo Horizonte, Brazil.
