@@ -18,22 +18,23 @@
 - 🐦 Tweeting about Galo, memes and sharing tech tweets on <a href="https://twitter.com/diegoizac/">Twitter</a>
 
 ---
+<img align="right" alt="GIF" src="https://i.imgur.com/nJiYiVT.gif" />
 
 ⭐️ From [DiegoIzac](https://github.com/DiegoIzac)
 
 
 
 <a href="https://www.linkedin.com/in/DiegoIzac/">
-  <img align="left" alt="João Pedro LinkdeIn" width="22px" src="https://cdn.nerdvana.com.br/ghpassets/linkedin.svg" />
+  <img align="left" alt="Diêgo Izac LinkdeIn" width="22px" src="https://cdn.nerdvana.com.br/ghpassets/linkedin.svg" />
 </a>
 <a href="https://github.com/DiegoIzac">
-  <img align="left" alt="João Pedro GitHub" width="22px" src="https://cdn.nerdvana.com.br/ghpassets/github.svg" />
+  <img align="left" alt="Diego Izac GitHub" width="22px" src="https://cdn.nerdvana.com.br/ghpassets/github.svg" />
 </a>
 <a href="https://facebook.com/IzacDiego">
-  <img align="left" alt="João Pedro Facebook" width="22px" src="https://cdn.nerdvana.com.br/ghpassets/facebook.svg" />
+  <img align="left" alt="Diego Izac Facebook" width="22px" src="https://cdn.nerdvana.com.br/ghpassets/facebook.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://cdn.nerdvana.com.br/ghpassets/coding.gif" />
+
 
 
 **Languages and Tools:**
