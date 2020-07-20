@@ -1,4 +1,4 @@
-### Hi, I'm [Diêgo]() 👋
+### Hi, I'm [Diego]() 👋
 ---
 
 #### I'm a Full-Stack Developer based in Belo Horizonte, Brazil.
