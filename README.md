@@ -1,4 +1,4 @@
-### Hi, I'm Diêgo 👋
+### Hi, I'm [Diêgo]() 👋
 ---
 
 #### I'm a Full-Stack Developer based in Belo Horizonte, Brazil.
@@ -6,7 +6,7 @@
 - 🏢 I'm currently working full-time with awesome peeps at **Compasso UOL**
 - ⚙️ I use daily: `.ts`, `.js`, `.php`, `.html`, `.css`, `.svg`, `.png`, `.json`, `.sql`
 - 🌱 Learning more about and studying: **Open Source, Clean Code, Node, TypeScript, Swagger, TDD**- 👯 I’m looking to collaborate on ...
-- 💬 Ping me about: **chatbot**, **backend**, **diversity & inclusion**, **mentorship**, **Music**
+- 💬 Ping me about: **chatbot**, **backend**, **beer**, **mentorship**, **Music**
 - 📫 Reach me asap: <a href="https://www.linkedin.com/in/diegoizac/">LinkedIn</a> or DiegoIzac@gmail.com
 - 💜 Interests: huge Beyonce fan, cryptocurrency enthusiast, 🍷 Wine, 🍖 Barbecue
 - 😄 Passionate about accessibility and committed to a web that works for everyone
@@ -15,8 +15,33 @@
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/diegoizac/">LinkedIn</a>
 - 🎧 Listening to all my favorite jams on <a href="https://open.spotify.com/user/vg34icbx8l4f5268ffuw10xw1">Spotify DiegoIzac</a>
 - 🌐 Updating my personal website with examples of my work on <a href="https://diegoizac.wordpress.com">DiegoIzac.WordPress.com</a>
-- 🐦 Tweeting about Beyonce, memes and sharing tech tweets on <a href="https://twitter.com/diegoizac/">Twitter</a>
+- 🐦 Tweeting about Galo, memes and sharing tech tweets on <a href="https://twitter.com/diegoizac/">Twitter</a>
 
 ---
 
 ⭐️ From [DiegoIzac](https://github.com/DiegoIzac)
+
+
+
+<a href="https://www.linkedin.com/in/DiegoIzac/">
+  <img align="left" alt="João Pedro LinkdeIn" width="22px" src="https://cdn.nerdvana.com.br/ghpassets/linkedin.svg" />
+</a>
+<a href="https://github.com/DiegoIzac">
+  <img align="left" alt="João Pedro GitHub" width="22px" src="https://cdn.nerdvana.com.br/ghpassets/github.svg" />
+</a>
+<a href="https://facebook.com/IzacDiego">
+  <img align="left" alt="João Pedro Facebook" width="22px" src="https://cdn.nerdvana.com.br/ghpassets/facebook.svg" />
+</a>
+<br />
+<img align="right" alt="GIF" src="https://cdn.nerdvana.com.br/ghpassets/coding.gif" />
+
+
+**Languages and Tools:**
+
+<code><img height="20" src="https://cdn.nerdvana.com.br/ghpassets/typescript.svg"></code>
+<code><img height="20" src="https://cdn.nerdvana.com.br/ghpassets/postman.svg"></code>
+<code><img height="20" src="https://cdn.nerdvana.com.br/ghpassets/insomnia.svg"></code>
+<code><img height="20" src="https://cdn.nerdvana.com.br/ghpassets/mysql.svg"></code>
+<code><img height="20" src="https://cdn.nerdvana.com.br/ghpassets/mongodb.svg"></code>
+<code><img height="20" src="https://cdn.nerdvana.com.br/ghpassets/vscode.svg"></code>
+<code><img height="20" src="https://cdn.nerdvana.com.br/ghpassets/terminal.svg"></code>
