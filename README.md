@@ -1,7 +1,7 @@
 ### I'm Diêgo Izac 👋
 ---
 
-#### I'm a Full-Stack Developer based in Belo Horizonte, Brazil.
+#### I'm a Back-End Developer based in Belo Horizonte, Brazil.
 
 - 🏢 I'm currently working full-time with awesome peeps at **Compasso UOL**
 - ⚙️ I use daily: `.java .ts`, `.js`, `.php`, `.html`, `.css`, `.svg`, `.png`, `.json`, `.sql`
