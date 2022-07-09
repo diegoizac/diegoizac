@@ -7,7 +7,7 @@
 - ⚙️ I use daily: `.java .ts`, `.js`, `.php`, `.html`, `.css`, `.png`, `.json`, `.sql`
 - 🌱 Learning more about and studying: **Open Source, Clean Code, Java, Spring, Node, TypeScript, Swagger, TDD**- 👯 I’m looking to collaborate on ...
 - 💬 Ping me about: **chatbot**, **backend**, **beer**, **mentorship**, **Music**
-- 📫 Reach me asap: <a href="https://www.linkedin.com/in/diegoizac/">LinkedIn</a> or DiegoIzac@gmail.com
+- 📫 Reach me asap: <a href="https://www.linkedin.com/in/diegoizac/">LinkedIn</a> or diego@dildas.com.br
 - 💜 Interests: huge Beyonce fan, cryptocurrency enthusiast, 🍷 Wine, 🍖 Barbecue
 - 😄 Passionate about accessibility and committed to a web that works for everyone
 
