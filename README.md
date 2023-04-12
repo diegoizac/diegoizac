@@ -1,7 +1,7 @@
 ### I'm Diêgo Izac 👋
 ---
 
-#### I'm a Back-End Developer based in Belo Horizonte, Brazil.
+#### I'm a Senior Software Engineer FullStack based in Contagem, Minas Gerais, Brazil.
 
 - 🏢 I'm currently working full-time with awesome peeps at **DILdaS Tecnologia**
 - ⚙️ I use daily: `.java .ts`, `.js`, `.php`, `.html`, `.css`, `.png`, `.json`, `.sql`
