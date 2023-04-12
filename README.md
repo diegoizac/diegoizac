@@ -3,7 +3,7 @@
 
 #### I'm a Back-End Developer based in Belo Horizonte, Brazil.
 
-- 🏢 I'm currently working full-time with awesome peeps at **Via**
+- 🏢 I'm currently working full-time with awesome peeps at **DILdaS Tecnologia**
 - ⚙️ I use daily: `.java .ts`, `.js`, `.php`, `.html`, `.css`, `.png`, `.json`, `.sql`
 - 🌱 Learning more about and studying: **Open Source, Clean Code, Java, Spring, Node, TypeScript, Swagger, TDD**- 👯 I’m looking to collaborate on ...
 - 💬 Ping me about: **chatbot**, **backend**, **beer**, **mentorship**, **Music**
